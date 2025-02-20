@@ -1,0 +1,10 @@
+"""print(4,6,8,2,5,6,sep="`",end=".\n")
+a=67
+b=76
+print(a+b)
+c="78"
+d="87"
+print(c+d)"""
+q=input()
+r=input()
+print(int(q)+int(r))
